@@ -1,2 +1,6 @@
 # arithmatic-operations
-addition,substraction,multiplication,division,
+addition,
+substraction,
+multiplication,
+division,
+remainder.
